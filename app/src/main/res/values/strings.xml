@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KFeedReader</string>
+    <string name="see_more">VER MAIS</string>
+    <string name="date_pub">Data Pub</string>
+    <string name="title">Titulo</string>
+    <string name="author">Autor</string>
+</resources>
